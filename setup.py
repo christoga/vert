@@ -12,3 +12,6 @@ if x > y:
 
 if x > y:
     print x + '=' + y
+
+print "Insert the variable"
+raw_input()
