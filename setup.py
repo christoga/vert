@@ -1,5 +1,6 @@
 from setup
 import setuptool
+import vert
 
 x = input("Insert variable x score ")
 y = input("Insert variable y score ")
