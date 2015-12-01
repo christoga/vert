@@ -1,3 +1,5 @@
+from setup
+import setuptool
 x = input("Insert variable x score ")
 y = input("Insert variable y score ")
 print "Loading..."
