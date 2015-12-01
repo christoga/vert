@@ -1,6 +1,11 @@
 # Vert
 Vert is a program that'll help you in finding variable numbers
 
+## Requirements
+* Command Line
+* Python installed
+* Git installed
+
 ## To Use
 ```shell
 $ git clone https://github.com/codingsmartschool/vert.git
