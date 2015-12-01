@@ -8,9 +8,12 @@ $ cd vert
 $ python setup.py
 ```
 
-## Author
-* [Andre Christoga](http://christoga.github.io)
-* [Vicky Dasta](http://vickydasta.github.io)
+## Credits
+
+[![Andre Christoga](https://avatars0.githubusercontent.com/u/14870769?v=3&s=460)](http://christoga.github.io) | [![Vicky Vernando Dasta](https://avatars3.githubusercontent.com/u/7861544?v=3&s=460)](http://vickydasta.github.io)
+:---:|:---:
+[Andre Christoga](http://christoga.github.io) | [Vicky Vernando Dasta](http://vickydasta.github.io)
+
 
 ## License
 Vert is licensed under MIT.
