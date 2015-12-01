@@ -1,18 +1,5 @@
-# x = 'y';
-# y = 'x';
-#
-# if x == y:
-#     return false;
-# else :
-#     return true;
-#
-# if x > y:
-#     print x + '=' + y
-# break
-#
-# if x > y:
-#     print x + '=' + y
-# break
-#
-# print "Insert the variable"
-# raw_input()
+vert = 11
+print "Loading..."
+for x in range(1000):
+    if (3*x) + 2 == vert:
+        print "Voila! The number is :", x
