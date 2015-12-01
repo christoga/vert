@@ -3,9 +3,8 @@ y = 'x';
 
 if x == y:
     return false;
-else {
+else :
     return true;
-}
 
 if x > y:
     print x + '=' + y
