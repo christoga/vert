@@ -9,9 +9,11 @@ else {
 
 if x > y:
     print x + '=' + y
+break
 
 if x > y:
     print x + '=' + y
+break
 
 print "Insert the variable"
 raw_input()
