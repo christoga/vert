@@ -13,6 +13,9 @@ $ cd vert
 $ python setup.py
 ```
 
+## Contributing
+If you want to contribute to **Vert**, the tutorial is available at [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ## Credits
 
 [![Andre Christoga](https://avatars0.githubusercontent.com/u/14870769?v=3&s=460)](http://christoga.github.io) | [![Vicky Vernando Dasta](https://avatars3.githubusercontent.com/u/7861544?v=3&s=460)](http://vickydasta.github.io)
