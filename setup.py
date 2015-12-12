@@ -8,6 +8,7 @@ if x == y:
 	print "The number have the same value!"
 elif x % y == 0:
 	print str(x/y) + "x" +' ' + "= " + str(y/y) + "y" 
-
+elif y % x == 0:
+	print str(y/x) + "y" +' ' + "= " + str(x/x) + "x" 
 # score = x + y
 # print score
