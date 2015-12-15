@@ -14,3 +14,19 @@ elif y % x == 0:
 	print str(y/x) + "y" +' ' + "= " + str(x/x) + "x" 
 else:
 	print "Something went wrong..."
+setup(
+    name="Vert",
+    version="1.0.0",
+    author="Coding Smart School",
+    author_email="codingsmartschool@gmail.com",
+    url="https://github.com/codingsmartschool/vert",
+    description="Find variable's score with vert",
+    long_description=("Vert is a python program that takes variable's score"                 
+                      " and give user the answer."),
+    classifiers=[
+        'Development Status :: 4 - Beta',
+        'Programming Language :: Python',
+    ],
+    license="MIT",
+    packages=['vert'],
+)
