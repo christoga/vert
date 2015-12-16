@@ -4,7 +4,6 @@ import setup
 import sys
 x = input("Insert variable x score ")
 y = input("Insert variable y score ")
-    break
 score = x * y
 
 if x == y:
