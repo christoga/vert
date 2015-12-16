@@ -31,5 +31,4 @@ setup(
         'Programming Language :: Python',
     ],
     license="MIT",
-    packages=['vert'],
 )
