@@ -9,9 +9,9 @@ if x == y:
 
 elif x % y == 0:
 	print str(x/y) + "x" +' ' + "= " + str(y/y) + "y" 
-    sys.exit()
+    # sys.exit()
 elif y % x == 0:
 	print str(y/x) + "y" +' ' + "= " + str(x/x) + "x" 
-    sys.exit()
+    # sys.exit()
 else:
 	print "Something went wrong..."
