@@ -2,8 +2,6 @@
 
 __author__ = 'Andre Christoga'
 
-import sys
-
 def main():
 	'''
 	Variable Equation
