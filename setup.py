@@ -10,11 +10,9 @@ def main():
 		print "The number have the same value!"
 
 	elif x % y == 0:
-		print str(x/y) + "x" +' ' + "= " + str(y/y) + "y" 
-	    # sys.exit()
+		print str(x/y) + "x" +' ' + "= " + str(y/y) + "y" 	    
 	elif y % x == 0:
-		print str(y/x) + "y" +' ' + "= " + str(x/x) + "x" 
-	    # sys.exit()
+		print str(y/x) + "y" +' ' + "= " + str(x/x) + "x" 	    
 	else:
 		print "Something went wrong..."
 
