@@ -2,6 +2,9 @@
 import sys
 
 def main():
+	'''
+	Variable Equation
+	'''
 	x = input("Insert variable x score ")
 	y = input("Insert variable y score ")
 	score = x * y
