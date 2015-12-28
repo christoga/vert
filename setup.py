@@ -1,4 +1,7 @@
 #!/usr/bin/python
+
+__author__ = 'Andre Christoga'
+
 import sys
 
 def main():
