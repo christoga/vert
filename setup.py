@@ -17,3 +17,6 @@ def main():
 	    # sys.exit()
 	else:
 		print "Something went wrong..."
+
+if __name__ == '__main__':
+	main()
